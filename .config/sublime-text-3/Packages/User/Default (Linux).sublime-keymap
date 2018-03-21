@@ -1,5 +1,6 @@
 [
 	{ "keys": ["f5"], "command": "refresh_folder_list" },
+	{ "keys": ["ctrl+k", "ctrl+r"], "command": "revert"},
 	{ "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_menu"},
 	{ "keys": ["ctrl+k", "ctrl+p"], "command": "toggle_minimap"},
 	{ "keys": ["ctrl+k", "ctrl+space"], "command": "set_setting", "args": {"setting": "draw_white_space", "value": "all"} },
